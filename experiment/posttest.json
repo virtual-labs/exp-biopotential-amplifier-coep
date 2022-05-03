@@ -1,38 +1,64 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "For biomedical applications, the mostly used amplifier is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inverting operational amplifier",
+        "b": "Single ended amplifier",
+        "c": "Differential amplifier",
+        "d": "Chopper amplifier"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The use of notch filter in signal conditioning system is",
+      "answers": {
+        "a": "to filter R.F. noise",
+        "b": "to filter 50 Hz noise from mains",
+        "c": "to filter the signal from various noises",
+        "d": "to attenuate the evoked response potentials"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Instrumentation amplifier has",
+      "answers": {
+        "a": "high Input impedance",
+        "b": "high Output impedance",
+        "c": "high Input impedance and output impedance",
+        "d": "None of the above"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The properties desired in a bioelectric amplifier are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "single ended output, often differential input",
+        "b": "high CMRR",
+        "c": "extremely high-input impedance",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "______is (are) important in case of bio-signal measurement.",
+      "answers": {
+        "a": "Input guarding",
+        "b": "Isolation",
+        "c": "impedance marching",
+        "d": "all of the above"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
