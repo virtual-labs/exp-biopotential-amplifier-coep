@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The amplifier which has no drift is",
+      "answers": {
+        "a": "Differential amplifier",
+        "b": "D.C. amplifier",
+        "c": "Single ended amplifier",
+        "d": "Chopper amplifier"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The improper response time of the amplifier in the biomedical recorders",
+      "answers": {
+        "a": "affects the gain of the amplifier",
+        "b": "delays the signals",
+        "c": "changes the shape of the waveform of the signal",
+        "d": "attenuates the signals"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To reduce common mode interference during recording of bio signals one can use",
+      "answers": {
+        "a": "buffer amplifier",
+        "b": "differential amplifier",
+        "c": "single ended amplifier",
+        "d": "chopper amplifier"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Resistively generated interference arises through incorrect",
+      "answers": {
+        "a": "grounding",
+        "b": "current density at the electrodes",
+        "c": "supply voltage",
+        "d": "input impedance"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "CMRR is more in",
+      "answers": {
+        "a": "Single ended amplifier",
+        "b": "Differential amplifier",
+        "c": "Inverting operational amplifier",
+        "d": "Chopper amplifier"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
